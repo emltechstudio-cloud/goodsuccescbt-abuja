@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Good Success OO mark on light</title><desc id="desc">Two interlocking O shapes that form a gateway and success path.</desc>
+  <rect width="512" height="512" rx="96" fill="#f8f6ef"/>
+  <circle cx="191" cy="256" r="116" fill="none" stroke="#057b8d" stroke-width="48"/>
+  <circle cx="321" cy="256" r="116" fill="none" stroke="#e5af10" stroke-width="48"/>
+  <path d="M236 205h40l48 51-48 51h-40l48-51z" fill="#f8f6ef"/>
+  <path d="M238 214h29l39 42-39 42h-29l39-42z" fill="#05191f"/>
+  <circle cx="191" cy="256" r="17" fill="#f8f6ef"/><circle cx="321" cy="256" r="17" fill="#f8f6ef"/>
+</svg>
